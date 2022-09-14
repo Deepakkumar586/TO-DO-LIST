@@ -180,8 +180,3 @@ main {
 }
 
 
-@media  (max-width: 770px) {
-     header{
-          display: block;
-    }
-  }
